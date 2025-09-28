@@ -108,9 +108,10 @@ async def start():
 
 if __name__ == "__main__":
     import asyncio
-    asyncio.run(start())
+    try:
+        asyncio.run(start())
     except KeyboardInterrupt:
-        logging.info('Service Stopped Bye 👋')
+        print("Bot stopped manually.")
 
 
 # Don't Remove Credit Tg - @VJ_Botz

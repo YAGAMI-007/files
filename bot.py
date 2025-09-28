@@ -106,9 +106,9 @@ async def start():
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-if __name__ == '__main__':
-    try:
-        loop.run_until_complete(start())
+if __name__ == "__main__":
+    import asyncio
+    asyncio.run(start())
     except KeyboardInterrupt:
         logging.info('Service Stopped Bye 👋')
 

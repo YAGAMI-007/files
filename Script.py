@@ -48,7 +48,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Leoyagamihere>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion></a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+h_ijq2C_fjJiZmQ1>𝐃𝐒𝐈𝐂𝐔𝐒𝐈𝐎𝐍 𝐆𝐑𝐎𝐔𝐏🤍</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/yagamimoviez>𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋⚡</a></b>
 """
@@ -135,4 +135,5 @@ Nᴀᴍᴇ - {}</b>
 
 # Don't Remove Credit Tg - @yagamimoviez
 # Ask Doubt on telegram @Leoyagamihere
+
 
